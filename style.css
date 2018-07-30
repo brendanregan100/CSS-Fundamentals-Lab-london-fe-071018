@@ -11,4 +11,6 @@ h1 {
 
 nav {
   align-content: center
+  margin:0;
+  padding:10px;
 }
