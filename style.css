@@ -15,4 +15,7 @@ nav {
   padding-right:10px;
 }
 
-figcaption
+figcaption {
+  font-size: 80%;
+  text-align: center;
+}
