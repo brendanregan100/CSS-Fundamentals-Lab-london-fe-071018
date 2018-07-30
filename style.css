@@ -28,6 +28,7 @@ figcaption {
 }
 
 #details div {
-  display: inline;
+  display: block;
   float: left;
+  background-color: red;
 }
