@@ -27,6 +27,6 @@ figcaption {
 }
 
 #details {
-  display: block;
+  display: inline;
   float: left;
 }
